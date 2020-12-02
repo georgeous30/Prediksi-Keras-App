@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Artboard 22-25.png</file>
+    <file>Artboard 22-75.png</file>
+    <file>Artboard 22-100.png</file>
+    <file>Artboard 22-150.png</file>
+  </qresource>
+</RCC>
